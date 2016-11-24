@@ -1,0 +1,115 @@
+html, body, div, h1, h2, ul, li, form, header {
+    margin: 0 !important;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+html {
+  height: 100%;
+}
+body {
+  height: 20%;
+
+}
+
+#header {
+  padding-left: 20%;
+    margin-top: 0px;
+    min-height:100%;
+}
+
+#container {
+    width: 100%;
+    height: auto;
+    min-width: 300px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px !important;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    margin-left: 50%;
+    display:none;
+    height: 100%;
+    font-family: 'Libre Franklin', sans-serif;
+}
+
+.h1small {
+    font-size: 24px;
+    color: gainsboro;
+    padding-left: 1%;
+    font-family: 'Libre Franklin', sans-serif;
+}
+
+#username {
+  background-position: 10px 10px;
+  background-repeat: no-repeat;
+  padding: 6px 10px 6px 10px;
+  border: 1px solid #ddd;
+  margin-bottom: 5px;
+  font-size: 16px;
+}
+
+#password {
+  background-position: 10px 10px;
+  background-repeat: no-repeat;
+  padding: 6px 10px 6px 10px;
+  border: 1px solid #ddd;
+  margin-bottom: 5px;
+  font-size: 16px;
+}
+
+#email {
+  background-position: 10px 10px;
+  background-repeat: no-repeat;
+  padding: 6px 10px 6px 10px;
+  border: 1px solid #ddd;
+  margin-bottom: 5px;
+  font-size: 16px;
+}
+
+#search {
+  background-position: 10px 10px;
+  background-repeat: no-repeat;
+  width: 62%;
+  font-size: 16px;
+  padding: 12px 20px 12px 40px;
+  border: 1px solid #ddd;
+  margin-bottom: 20px;
+}
+
+#buttons {
+  width: auto;
+  display: inline-block;
+  float: right;
+  min-width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  width:500px;
+}
+
+table {
+  table-layout:
+  width: 1000px;
+  min-width: 95%;
+  font-family: 'Libre Franklin', sans-serif;
+}
+
+#form {
+  padding-bottom: 1%;
+  width: 1000px;
+  min-width: 100%;;
+  font-family: 'Libre Franklin', sans-serif;
+}
+
+#searchtable {
+  width: 1000px;
+  min-width: 100%;
+  font-family: 'Libre Franklin', sans-serif;
+}
+.btn {
+  border-radius: 0 !important;
+}
